@@ -1,2 +1,3 @@
 # TAA-Project
-Projeto de TAA 2024-2025
+
+Income Prediction based on census data - ML Project
